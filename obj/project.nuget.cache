@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEByExSoHqI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexi\\Downloads\\3\\Proyecto-SD-.NET-main\\Proyecto-SD-.NET-main\\Distribuidos.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
